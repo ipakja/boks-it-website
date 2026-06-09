@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boks-it.ch/sitemap.xml
