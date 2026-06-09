@@ -27,6 +27,11 @@ yarn-error.log*
 .env
 .env*.local
 
+# lokale Secrets & Zugangsdaten (niemals committen)
+.secrets/
+CREDENTIALS.local.md
+SETUP-HANDOFF.local.md
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
