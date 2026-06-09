@@ -55,13 +55,19 @@ Statische Dateien liegen danach im Ordner `out/`.
 - Navigation & Kontakt: `src/lib/site.ts`
 - SEO pro Seite: `export const metadata` in jeder `page.tsx`
 
+## GitHub Repository
+
+**https://github.com/ipakja/boks-it-website**
+
 ## Deployment (Cloudflare Pages)
+
+Vollständige Anleitung: **[DEPLOY.md](./DEPLOY.md)**
 
 | Einstellung | Wert |
 |---|---|
 | Build command | `npm run build` |
 | Build output directory | `out` |
-| Node version | 20 oder 22 |
+| Node version | 22 |
 
 ## Screenshots
 
